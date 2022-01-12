@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9b99712df8c974d4989e1af5b34dcbb0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wall: {fileID: 2892139684203390705, guid: 67390c20b87afd54cae73b712db789e3, type: 3}
+  - ground: {fileID: 2308604456168122864, guid: a6cfc09454613da41bcd615543d62f48,
+      type: 3}
+  - robot: {fileID: 1639755132138265219, guid: a6ae5d62805e11745af97100444c5baa, type: 3}
+  - collectable: {fileID: 1492654409057168305, guid: f31a1dd2f3deca54398c55f749ea223a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
